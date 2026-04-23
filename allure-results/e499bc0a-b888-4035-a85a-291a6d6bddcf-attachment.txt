@@ -1,0 +1,2 @@
+Personal Loan UI EMI: 9557, Expected: 9557
+Personal Loan Interest % from total amount: 41.9%

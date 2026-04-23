@@ -1,0 +1,17 @@
+{
+"personal":{
+    "principle" : "1000000",
+    "rate" : "8",
+    "time" : "15" 
+},
+"home":{
+    "principle" : "1000000",
+    "rate" : "8",
+    "time" : "15" 
+},
+"car":{
+    "principle" : "1000000",
+    "rate" : "8",
+    "time" : "15" 
+}
+}

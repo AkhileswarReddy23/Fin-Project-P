@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","8464","Validate Home Loan Calculation","chromium","2026-04-23","passed","2026-04-23","","hoamLoan.spec.ts","",""
+"","12095","Validate Personal Loan Calculation","chromium","2026-04-23","passed","2026-04-23","","personalLoan.spec.ts","",""
+"","12168","Validate Car Loan and Download","chromium","2026-04-23","passed","2026-04-23","","carLoan.spec.ts","",""
