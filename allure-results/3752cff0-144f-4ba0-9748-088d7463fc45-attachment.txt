@@ -1,0 +1,2 @@
+Home Loan UI EMI: 9557, Expected: 9557
+Home Loan Interest % from total amount: 41.9%

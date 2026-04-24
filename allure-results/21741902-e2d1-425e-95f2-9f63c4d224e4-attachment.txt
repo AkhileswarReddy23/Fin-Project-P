@@ -1,0 +1,3 @@
+Car Loan UI EMI: 9557, Expected: 9557
+Car Loan Interest % from total amount: 41.9%
+Car Loan Excel saved to: ./downloads/loan_amortization_schedule.xlsx
